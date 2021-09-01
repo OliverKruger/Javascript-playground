@@ -1,0 +1,11 @@
+.text-center{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+min-height: 100vh;
+    background-color: yellow;
+    color: #018DED;
+    font-family: Tahoma;
+    font-size: 25px;
+}
